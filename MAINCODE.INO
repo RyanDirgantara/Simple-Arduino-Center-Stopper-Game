@@ -11,7 +11,7 @@ int f=7;
 int g=8;
 int buzzer=11;
 int button=10;
-int led_menang=52;
+int led_win=52;
 int led[]={22,24,26,28,30,34,36,38,40};
 
 //Other variables:
