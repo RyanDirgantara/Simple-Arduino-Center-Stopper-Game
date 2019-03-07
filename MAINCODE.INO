@@ -34,7 +34,7 @@ void setup() {
   pinMode (g,OUTPUT);
   pinMode (buzzer,OUTPUT);
   pinMode (button,INPUT);
-  pinMode (led_menang,OUTPUT);
+  pinMode (led_win,OUTPUT);
   for (int i=0;i<8;i++) 
   {
   pinMode (led[i],OUTPUT);
